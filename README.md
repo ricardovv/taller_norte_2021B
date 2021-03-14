@@ -1,5 +1,7 @@
 # Talleres formativos en Creatividad y tecnologías (Marzo 2021, Santiago, Chile)
 
+## VERSION DEL DOMINGO 13 MARZO 
+
 #### Profesores: Marira Jose rios A. (Artista), Ricaro Vega (Diseñador, Artista, Profesor UC)
 
 ### Descripcion: 

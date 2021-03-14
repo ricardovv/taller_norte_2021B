@@ -2,6 +2,8 @@
 
 ## VERSION DEL DOMINGO 13 MARZO 
 
+## Para que o trabaje local MJOSE
+
 #### Profesores: Marira Jose rios A. (Artista), Ricaro Vega (Diseñador, Artista, Profesor UC)
 
 ### Descripcion: 

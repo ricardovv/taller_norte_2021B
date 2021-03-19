@@ -1,61 +1,56 @@
 # Talleres formativos en Creatividad y tecnologías (Marzo 2021, Santiago, Chile)
 
-## VERSION DEL DOMINGO 13 MARZO 
+#### Profesores: María José Ríos A. (Artista), Ricardo Vega (Diseñador, Artista, Profesor UC)
 
-## Primer pull request jueves 18 marzo
+#### Profesores: María José Ríos A. (Artista), Ricardo Vega (Diseñador, Artista, Profesor UC)
 
-## Para que lo trabaje local MJOSE
-
-#### Profesores: Marira Jose rios A. (Artista), Ricaro Vega (Diseñador, Artista, Profesor UC)
-
-### Descripcion: 
-Esas sesiones de taller constna de 2 partes, una orientada a interfaces fisicas (MJose rios), y otra orientada a visualizacion de datos (Ricaro vega). 
+### Descripción: 
+Estas sesiones de taller constan de 2 partes, una orientada a interfaces físicas (MJosé Ríos), y otra orientada a visualización de datos (Ricardo Vega). 
 
 ### Sesiones: 
-12 clases de 4 hrs. lectivas (3 hrs cronológicas), 6 clases por tema, a realizarse los viernes. 
-
+12 clases de 4 hrs. lectivas (3 hrs cronológicas), 6 clases por tema, a realizarse los días viernes. 
 
 ### Objetivo general: 
 ### Metodología: 
-Sección teórica explicativa, Sección práctica: 
+Sección teórica explicativa, Sección práctica: Algunas clases serán presenciales y otras online.
 
 ### Contenido: 
 ### Referencias:
 ### Materiales:
 ### Requisitos: 
 
-
-## Clase a Clase 
+## Clase a Clase
 ### Sesión 01: Clase 1:Bootcamp creatividad: Destape
-**Objetivo de la clase:** reconocer el valor de la comunicacoin visual en procesos de aprendizaje y ense;anza mediante estrategias activas de creacion.
+**Objetivo de la clase:** 
+Reconocer el valor de la comunicaciónn visual en procesos de aprendizaje y enseñanza mediante estrategias activas de creación.
  
-**Conteniudos:** Detección de oportunidad de problema, Planteamiento y definición, Desarrollo de la idea Desarrollo de la implementación, Comunicación
-METODOLOGÍA DOBLE DIAMANTE
+**Contenidos:**
+Detección de oportunidad de problema, planteamiento y definición, desarrollo de la idea, desarrollo de la implementación,  y comunicación.
 
-### Sesión  02: Clase introductoria: 
-objetivo
+### Sesión 02: Clase introductoria: 
+Objetivo:
 partes: teórica explicativa
-contenido: el ejercicio o materia en específico
-práctica
+contenido: el ejercicio o materia en específic
+práctica.
 
 ### Sesión 03: Clase de sensibilización:
-objetivo
+Objetivo:
 partes: teórica explicativa
 contenido: el ejercicio o materia en específico
-práctica
+práctica.
 
-Sesión 04: Clase de exploración: 
-objetivo
+### Sesión 04: Clase de exploración: 
+Objetivo
 partes: teórica explicativa
 contenido: el ejercicio o materia en específico
-práctica
+práctica.
 
-Sesión 05: Clase de aplicación:
-objetivo
+### Sesión 05: Clase de aplicación:
+Objetivo:
 partes: teórica explicativa
 contenido: el ejercicio o materia en específico
-práctica
+práctica.
 
-Sesión 06: Clase de presentación :
-objetivo: 
+### Sesión 06: Clase de presentación:
+Objetivo: 
 

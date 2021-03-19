@@ -10,14 +10,20 @@ Estas sesiones de taller constan de 2 partes, una orientada a interfaces física
 ### Sesiones: 
 12 clases de 4 hrs. lectivas (3 hrs cronológicas), 6 clases por tema, a realizarse los días viernes. 
 
+---------------------------------
+
 ### Objetivo general: 
 ### Metodología: 
 Sección teórica explicativa, Sección práctica: Algunas clases serán presenciales y otras online.
+
+---------------------------------
 
 ### Contenido: 
 ### Referencias:
 ### Materiales:
 ### Requisitos: 
+
+---------------------------------
 
 ## Clase a Clase
 ### Sesión 01: Clase 1:Bootcamp creatividad: Destape
@@ -26,6 +32,8 @@ Reconocer el valor de la comunicaciónn visual en procesos de aprendizaje y ense
  
 **Contenidos:**
 Detección de oportunidad de problema, planteamiento y definición, desarrollo de la idea, desarrollo de la implementación,  y comunicación.
+
+METODOLOGÍA DOBLE DIAMANTE.
 
 ### Sesión 02: Clase introductoria: 
 Objetivo:
